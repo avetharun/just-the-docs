@@ -20,7 +20,7 @@ url: "https://just-the-docs.com" # the base hostname & protocol for your site, e
 repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
-
+remote_theme: g2forge/charcoal
 defaults:
   - scope:
       path: "docs" # an empty string here means all files in the project
